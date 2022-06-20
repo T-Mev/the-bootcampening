@@ -1,6 +1,6 @@
 # Assignment 1
 
-Your first assignment is to make something that stitches all of the markdown files in `src/` into a singular, complete `README.md`.
+Your first assignment is to write a program that stitches all of the markdown files in `src/` into a singular, complete `README.md`.
 
 You will be overwriting the `README.md` file at the root of this repository with your results.
 
